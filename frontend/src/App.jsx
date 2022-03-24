@@ -1,8 +1,8 @@
-import Login from './pages/Login';
+import SignIn from './pages/SingIn';
 
 function App() {
   return (
-    <Login />
+    <SignIn />
   );
 }
 

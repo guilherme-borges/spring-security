@@ -1,0 +1,13 @@
+.signin-title {
+    margin-bottom: 60px;
+}
+
+.form-signin {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.form-signin form {
+    width: 300px;
+}
